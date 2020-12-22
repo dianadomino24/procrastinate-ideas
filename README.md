@@ -4,6 +4,8 @@ A simple JS generator of ideas for procrastination.
 
 Press the button and get a new idea!
 
+A study project at Practicum by Yandex.
+
 ---
 
 ## :mag_right: Preview
@@ -23,3 +25,11 @@ https://dianadomino24.github.io/procrastinate-ideas/
 -   **JavaScript ES6** - Promises, setTimeOut.
 
 -   semantic **HTML5**, styles - **CSS3** including Flexbox.
+
+---
+
+**Practicum by Yandex** - https://practicum.yandex.com/
+
+---
+
+## :sparkles: Thanks for watching! :sparkles:
