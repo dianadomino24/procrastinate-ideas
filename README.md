@@ -14,7 +14,7 @@ Press the button and get a new idea!
 
 ## :link: Links to test
 
-https://dianadomino24.
+https://dianadomino24.github.io/procrastinate-ideas/
 
 ---
 
