@@ -11,7 +11,7 @@ A study project at Practicum by Yandex.
 ## :mag_right: Preview
 
 ![Preview](./procrast-gif.gif)
-<img src="./procrast-gif.gif" width="350px" height="743px">
+<img src="./procrast-gif.gif" width="350px" height="473px">
 
 ---
 
