@@ -10,7 +10,7 @@ A study project at Practicum by Yandex.
 
 ## :mag_right: Preview
 
-![Preview](./procrast-gif.gif){:height="50%" width="50%"}
+![Preview](./procrast-gif.gif){:height="743px" width=550px"}
 
 ---
 
